@@ -60,7 +60,7 @@ const hu = {
     "UserLocText": "Add meg a tartózkodási helyed",
     "UserLocSubtext": "Ha az időjárás helye nem megfelelő",
     "userLoc": "A városod vagy koordinátáid (földrajzi szélesség, hosszúság)",
-    "InputOptionsButton": "Beviteli lehetőségek",
+    "useGPS": "GPS használása",
     "saveLoc": "Mentés",
 
     // Weather
@@ -114,6 +114,7 @@ const hu = {
     "chatGPT": "ChatGPT",
     "gemini": "Gemini",
     "copilot": "Copilot",
+    "claude": "Claude",
     "perplexity": "Perplexity",
     "firefly": "Adobe Firefly",
     "metaAI": "Meta AI",
